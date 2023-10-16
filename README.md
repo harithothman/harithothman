@@ -4,7 +4,6 @@
 
 
 
-![photo_2023-05-22_04-10-42](https://github.com/harithothman/harithothman/assets/118237681/6b97ffa1-6e4b-48e3-aae6-c8599e115b44)
 
 
 
