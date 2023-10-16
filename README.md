@@ -4,8 +4,10 @@
 
 
 
+![photo_2023-05-22_04-10-42](https://github.com/harithothman/harithothman/assets/118237681/6b97ffa1-6e4b-48e3-aae6-c8599e115b44)
 
-![HARITH HAKIM](https://github.com/harithothman/harithothman/assets/118237681/8682a071-a3b8-4ef9-855d-c59b1699a3ac)
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=Welcome+To+HARITH's+Page!)](https://git.io/typing-svg)
 
