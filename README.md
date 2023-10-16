@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![banner](https://github.com/aly4blqss/aly4blqss/assets/121602362/642bf7e9-b9ee-4b54-afc4-05d1aaf94166)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=Welcome+To+Alya's+Page!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm MUHAMMAD HARITH HAKIM BIN OTHMAN</h1>
 <h3 align="center">I am a DATA ENGINEERING STUDENT from UNIVERISITI TEKNOLOGI MALAYSIA</h3>
